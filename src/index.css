@@ -18,11 +18,11 @@ body{
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-button{
+/* button{
       width: 50px;
       height: 15px;
       background-color: grey;
-  }
+  } */
 
 .exercise {
     margin-bottom: 10px;
